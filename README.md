@@ -18,7 +18,7 @@ I've always believed that being a good engineer isn't just about writing code. I
 
 - [**forge**](https://github.com/muhammad-saadd/forge) — AI-assisted development with senior-engineer discipline
 - [**precis**](https://github.com/muhammad-saadd/precis) — Precision AI development workflows
-- [**distributionos**](https://github.com/muhammad-saadd/distributionos) — Distro OS. Distribution Intelligence for Founders. Turn product knowledge into distribution content — ingest brand info, run positioning audits, generate channel-optimized content calibrated to your voice.
+- **distributionos** — Distro OS. Distribution Intelligence for Founders. Turn product knowledge into distribution content — ingest brand info, run positioning audits, generate channel-optimized content calibrated to your voice.
 
 ---
 
