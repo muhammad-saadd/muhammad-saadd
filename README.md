@@ -18,7 +18,7 @@ I've always believed that being a good engineer isn't just about writing code. I
 
 - [**forge**](https://github.com/muhammad-saadd/forge) — AI-assisted development with senior-engineer discipline
 - [**precis**](https://github.com/muhammad-saadd/precis) — Precision AI development workflows
-- [**notification-service**](https://github.com/muhammad-saadd/notification-service) — TypeScript notification service
+- [**distributionos**](https://github.com/muhammad-saadd/distributionos) — Turn your GitHub repos into a browsable, installable app store of developer workflows
 
 ---
 
