@@ -1,24 +1,27 @@
-### Hey, I'm Muhammad Saad 👋
+I joined Dastgyr as a 22-year-old who knew almost nothing. Four years — and four promotions — later, I'd helped grow the engineering team from 10 to 80, scaled our APIs from 3,500 to 21,000 concurrent users, and cut our AWS bill by 84%.
 
-I build tools that make developers more effective — combining AI workflows with engineering discipline. Currently at **Dastgyr** in Karachi.
+I've always believed that being a good engineer isn't just about writing code. It's about understanding the problem deeply, owning the outcome, and making things that actually work for real people. That's what I've tried to do every day.
 
-```yaml
-location:     Karachi, PK
-current:      Dastgyr
-interests:    AI-assisted dev, workflows, developer tooling
-learning:     Go, system design, distributed systems
-```
+**Some things I'm proud of:**
+
+- Cut AWS spend from $6,400/mo to $1,000/mo — eliminated MSK and ElastiCache, consolidated services, right-sized everything
+- Scaled REST APIs to 3,300 req/s with 130ms latency (was 1,200ms)
+- Shipped a production agentic AI procurement system using OpenAI + Tavily — autonomous supplier discovery, negotiation, catalogue expansion
+- Broke a monolithic JS codebase into TypeScript microservices using DDD as the team grew 8x
+- Built a shared backend SDK adopted by 7+ services that cut setup time by 70%
+- Led a 4-engineer team shipping 6 revenue-critical features end-to-end
+- Architected a cross-border multi-currency system with FX-rate-aware transactions
 
 ---
 
-**What I'm building:**
+**What I'm building now:**
 
-- [**forge**](https://github.com/muhammad-saadd/forge) — AI-assisted development with senior-engineer discipline: spec-first, TDD, atomic commits, verified before done.
-- [**precis**](https://github.com/muhammad-saadd/precis) — Precision AI development. Develop like a senior engineer.
-- [**notification-service**](https://github.com/muhammad-saadd/notification-service) — A notification service built with TypeScript.
+- [**forge**](https://github.com/muhammad-saadd/forge) — AI-assisted development with senior-engineer discipline
+- [**precis**](https://github.com/muhammad-saadd/precis) — Precision AI development workflows
+- [**notification-service**](https://github.com/muhammad-saadd/notification-service) — TypeScript notification service
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadsaad-pk">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/muhammadsaad-pk">LinkedIn</a> · Karachi, Pakistan
 </p>
